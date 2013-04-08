@@ -1,8 +1,14 @@
 <html>
-<h1> Kate's App </h1>
+<body bgcolour="pink" text="white" link="pink">
+<h1> Test App </h1>
 <h2> Welcome </h2>
 <h1> Once upon a time in a far away land </h1>
-once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land
+<p>once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land <em>once upon a time in a far away land </em>once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land 
+</p>
+<p>
+once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land once upon a time in a far away land
+</p>
 <a href='new.html'>page 1</a>
 <a href='new2.html'>page 2</a>
+</body>
 </html>
